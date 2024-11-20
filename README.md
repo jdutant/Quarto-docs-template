@@ -89,8 +89,7 @@ styling the output,
 whether to add extra outputs formats such as PDF.
 
 If you change the output folder (`output-dir`), 
-you need to amend `.gitignore` and the GitHub
-Action paramters (`.github/workflows/publish_docs.yml`).
+you should amend `.gitignore` accordingly.
 
 ### Make your documentation a Quarto book
 
