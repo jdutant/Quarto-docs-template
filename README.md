@@ -53,7 +53,8 @@ of Quarto.
 
 ## Usage
 
-Write documentation by amending the Quarto website in `docs/`. Changes to this folder that are pushed to the GitHub
+Write documentation by amending the Quarto website in `docs/`. 
+Changes to this folder that are pushed to the GitHub
 repository trigger a new rendering of the documentation.
 The output is visible at the URL
 `https//<github-owner-name>.github.io/<template-name>`.
@@ -65,6 +66,8 @@ GitHub, run `quarto render` in the `docs` website.
 Open `docs/_output/index.html` in a browser to
 see the result. (This requires a local installation
 of [Quarto].)
+
+See [Quarto guide] on how to write using Quarto.
 
 ## Advanced usage
 
@@ -117,10 +120,10 @@ format:
 ## Resources
 
 * [Quarto documentation on publishing with GitHub Actions](https://quarto.org/docs/publishing/github-pages.html#github-action).
-* [Quarto GitHub Actions] with documentation and examples.
-* [GitHub Pages documentation].
+* [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) with documentation and examples.
+* [GitHub Pages].
 
 [Quarto]: https://quarto.org "Quarto website"
 [Quarto guide]: https://quarto.org/docs/guide/ "Quarto guide"
 [GitHub Pages]: https://docs.github.com/en/pages "GitHub pages documentation"
-[Quarto GitHub Actions]" https://github.com/quarto-dev/quarto-actions "Quarto's team GitHub actions
+[Quarto GitHub Actions]: "https://github.com/quarto-dev/quarto-actions "Quarto's team GitHub actions"
