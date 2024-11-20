@@ -66,22 +66,6 @@ Open `docs/_output/index.html` in a browser to
 see the result. (This requires a local installation
 of [Quarto].)
 
-When you create new documentation pages you need to
-list them in `_quarto.yml`:
-
-```yml
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - new_page.qmd
-      - folder/new_page.qmd
-```
-
-Documentation pages can be written in multiple
-formats. See [Quarto guide].
-
 ## Advanced usage
 
 ### How this works
