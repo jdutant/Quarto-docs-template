@@ -1,0 +1,6 @@
+# Quarto files
+/docs/.quarto/
+/docs/_output/
+
+# MacOS
+.DS_Store
