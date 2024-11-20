@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Licence\nSee LICENSE file.\n\n\nContribute\nPRs welcome.\n\n\nThanks\ntba"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto-generated Documentation",
+    "section": "",
+    "text": "This is a Quarto website to document this repository.\nQuarto is multiformat document generator that can be used as a static website generator. It is more powerful that a blog-oriented platform such as Jekyll but less than documentation-oriented tools such as Sphinx or Docusaurus. It is build on Pandoc and accepts multiple flavours of markdown.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nTest that it works."
+  }
+]
